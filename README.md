@@ -10,13 +10,4 @@ This project allows me to store all working code. The code is used as a guide to
 Project is created with:
 * Microsoft Visual Studio Code
 * CISCO CLI
-*  
-	
-## Setup
-To run this project, install it locally using npm:
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
