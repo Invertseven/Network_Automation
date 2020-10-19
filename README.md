@@ -1,1 +1,22 @@
-Welcome to my repo: All code is being update at all times as I learn to automate networks. 
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+This project allows me to store all working code. The code is used as a guide to write your own software
+	
+## Technologies
+Project is created with:
+* Microsoft Visual Studio Code
+* CISCO CLI
+*  
+	
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
